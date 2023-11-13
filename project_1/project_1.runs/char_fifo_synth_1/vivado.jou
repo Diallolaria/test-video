@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Mon Nov 13 16:06:02 2023
+# Process ID: 2772
+# Current directory: D:/test-video/project_1/project_1.runs/char_fifo_synth_1
+# Command line: vivado.exe -log char_fifo.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source char_fifo.tcl
+# Log file: D:/test-video/project_1/project_1.runs/char_fifo_synth_1/char_fifo.vds
+# Journal file: D:/test-video/project_1/project_1.runs/char_fifo_synth_1\vivado.jou
+#-----------------------------------------------------------
+source char_fifo.tcl -notrace
